@@ -1,2 +1,2 @@
-# OZONE
-Ozone Extension
+# OzoneInternational
+Ozone International
